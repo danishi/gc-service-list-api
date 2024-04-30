@@ -10,6 +10,8 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
 
+If you want to get the latest product names of Google Cloud, this API may be useful.
+
 > [!NOTE]
 > This API was created for personal use.
 > Please note that this is not approved by Google Cloud.
