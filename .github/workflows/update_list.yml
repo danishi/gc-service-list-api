@@ -1,7 +1,7 @@
 name: Update list
 on:
   schedule:
-    - cron: "0 4 * * 1"
+    - cron: "0 4 * * 0"
   workflow_dispatch: {}
 
 jobs:
@@ -24,8 +24,7 @@ jobs:
         python-version: ${{ matrix.python-version }}
 
     - name: Python Install dependencies 🧹
-      run: |
-        pip3 install -r requirements.txt
+      run: pip3 install -r requirements.txt
 
     - name: Update list 🔨
       run: python3 main.py
