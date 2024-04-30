@@ -2,7 +2,7 @@
   "items":[
     {
       "name":"Google Cloud",
-      "resource":"https://github.com/danishi/gc-service-list-api/data/products.json"
+      "resource":"https://github.com/danishi/gc-service-list-api/blob/main/data/products.json"
     }
   ],
   "count": 1

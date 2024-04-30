@@ -13,4 +13,4 @@
 ## Data sources ♨
 - https://cloud.google.com/products?hl=en
 - https://www.googleapis.com/discovery/v1/apis
-- https://github.com/danishi/gc-service-list-api/data/products.json
+- https://github.com/danishi/gc-service-list-api/blob/main/data/products.json

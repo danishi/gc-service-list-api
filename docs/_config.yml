@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 title: Google Cloud service list API 📖
 description: API that returns a list of Google Cloud product names etc.
 lang: en
