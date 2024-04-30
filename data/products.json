@@ -1,0 +1,8 @@
+{
+  "items":[
+    {
+      "name":"Google Cloud",
+      "resource":"https://github.com/danishi/gc-service-list-api/data/products.json"
+    }
+  ]
+}

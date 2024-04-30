@@ -1,0 +1,43 @@
+name: Update list
+on:
+  schedule:
+    - cron: "0 4 * * 1"
+  workflow_dispatch: {}
+
+jobs:
+  update:
+    name: Python ${{ matrix.python-version }} on ${{ matrix.os }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      matrix:
+        python-version: ["3.12"]
+        os: [ubuntu-latest]
+
+    steps:
+    - name: Checkout 🔔
+      uses: actions/checkout@v4
+
+    - name: Setup Python ${{ matrix.python-version }} 🐍
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ matrix.python-version }}
+
+    - name: Python Install dependencies 🧹
+      run: |
+        pip3 install -r requirements.txt
+
+    - name: Update list 🔨
+      run: python3 main.py
+
+    - name: Commit files 📝
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Actions"
+        git add ./pages/api/
+        git commit -m "Update data `date +%Y-%m-%d`" -a
+
+    - name: Push changes 🚀
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
