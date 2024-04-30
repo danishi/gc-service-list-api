@@ -10,11 +10,14 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
 
-https://danishi.github.io/gc-service-list-api/products.json
-
 > [!NOTE]
 > This API was created for personal use.
 > Please note that this is not approved by Google Cloud.
+
+## Getting started 🚀
+
+Click here 👇  
+https://danishi.github.io/gc-service-list-api/products.json
 
 ## Data sources ♨
 - https://github.com/danishi/gc-service-list-api/blob/main/data/products.json
