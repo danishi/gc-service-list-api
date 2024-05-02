@@ -16,7 +16,7 @@ If you want to get the latest product names of Google Cloud, this API may be use
 > This API was created for personal use.
 > Please note that this is not approved by Google Cloud.
 
-## Getting started 🚀
+## How to use 🤔
 
 Click here 👇  
 https://danishi.github.io/gc-service-list-api/products.json
