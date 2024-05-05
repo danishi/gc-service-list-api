@@ -56,7 +56,7 @@ def saveJsonFile():
     }
 
     with open('./docs/products.json', 'w') as file:
-        json.dump(products, file)
+        json.dump(products, file, indent=2)
 
 
 if __name__ == "__main__":
