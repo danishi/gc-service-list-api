@@ -1,0 +1,10 @@
+[flake8]
+exclude =
+    git,
+    venv,
+    .venv,
+    build
+
+ignore =
+    E128
+    E501
