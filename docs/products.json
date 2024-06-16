@@ -49,183 +49,11 @@
       "resource": "https://github.com/danishi/gc-service-list-api/blob/main/data/products.json"
     },
     {
-      "name": "Tools for Eclipse",
+      "name": "Infrastructure Manager",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Cloud Trace",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Assured Open Source Software",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Bigtable",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Firestore",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Functions",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Maven App Engine Plugin",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Tekton",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Migration Center",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Network Intelligence Center",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Storage for Firebase",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Terraform on Google Cloud",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Sole-tenant Nodes",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Google Distributed Cloud Edge",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Vertex AI Studio",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Google Workspace",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Transcoder API",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Telecom Data Fabric",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Tau VM",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Media Translation",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "App Hub",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Tasks",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Spectrum Access System (SAS)",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Deep Learning VM Image",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Text-to-Speech",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Video AI",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Document AI",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Identity",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Security Command Center",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Assured Workloads",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Looker",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Datastream",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "AI Infrastructure",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Shielded VMs",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Code",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Vision AI",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Foundation Toolkit",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Gemini Cloud Assist",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Mandiant Consulting Services",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Blockchain Node Engine",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Network Service Tiers",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Logging",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Chrome Enterprise Premium",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Mandiant Managed Detection and Response",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Local SSD",
+      "name": "Vertex AI Notebooks",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
@@ -233,183 +61,43 @@
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Speech-to-Text",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Armor",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Sensitive Data Protection",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Dataform",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Filestore",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Run",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Payment Gateway",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Transfer Appliance",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Virtual Private Cloud (VPC)",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "BigQuery",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Gemini in Databases",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Carbon Footprint",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Shell",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Application migration",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Managed Service for Prometheus",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Looker Studio",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud SDK",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Software Delivery Shield",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Vertex Explainable AI",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Google Kubernetes Engine",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Deployment Manager",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "SQL Server on Google Cloud",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "AutoML",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Google Maps Platform",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Chronicle SIEM",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Pub/Sub",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Dataplex",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Translation AI",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud TPUs",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Kubernetes applications on Google Cloud Marketplace",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Gradle App Engine Plugin",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Config Management",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Build",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Gemini",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud GPUs",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Skaffold",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud CDN",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "App Engine",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Migrate to Virtual Machines",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Service Directory",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
       "name": "NetApp Volumes",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "TensorFlow Enterprise",
+      "name": "Mandiant Academy",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Recommender",
+      "name": "Personalized Service Health",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Mandiant Digital Threat Monitoring",
+      "name": "Developer Connect",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Cloud Deploy",
+      "name": "Mandiant Consulting Services",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Vision AI",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Composer",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Chrome Enterprise Premium",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "AlloyDB for PostgreSQL",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Google Distributed Cloud Edge",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
@@ -421,199 +109,19 @@
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Cloud Data Fusion",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Functions for Firebase",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud DNS",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Identity and Access Management (IAM)",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Google Threat Intelligence",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Composer",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud SQL",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Tools for PowerShell",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Dataflow",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "AppSheet",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Network Connectivity Center",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Managed Service for Microsoft Active Directory",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Spanner",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Apigee API Management",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "AppSheet Automation",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Mandiant Security Validation",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Earth Engine",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Anthos",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud NAT",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "OpenCue",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Dialogflow",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Mobile App",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Video Stitcher API",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Policy Intelligence",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Gemini Code Assist",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "VPC Service Controls",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Block storage",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Workstations",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Profiler",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Console",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Bare Metal Solution",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Natural Language AI",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Access Transparency",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Vertex AI Agent Builder",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Mandiant Attack Surface Management",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Active Assist",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Data Catalog",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Healthcare API",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Web Risk",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Mandiant Incident Response Services",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Vertex AI Search for retail",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Confidential Computing",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud APIs",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Deployment Manager",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Personalized Service Health",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Private Service Connect",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Google Cloud Backup and DR",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Knative",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
       "name": "Live Stream API",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Gemini in Databases",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Sensitive Data Protection",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Chronicle SIEM",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
@@ -621,119 +129,7 @@
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Cloud Scheduler",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Google Kubernetes Engine (GKE)",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Service Mesh",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Telecom Subscriber Insights",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Memorystore",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Source Repositories",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Monitoring",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Telecom Network Automation",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Workflows",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Mandiant Academy",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Identity and Access Management",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Chrome Enterprise",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "BigLake",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Connectivity",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Domains",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Google Distributed Cloud Hosted",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "BigQuery Data Transfer Service",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud IDS",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "AlloyDB for PostgreSQL",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Google Distributed Cloud",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Contact Center AI",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Load Balancing",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Key Management",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Certificate Authority Service",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Dataproc",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "BeyondCorp Enterprise",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "reCAPTCHA Enterprise",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Persistent Disk",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Titan Security Key",
+      "name": "Video AI",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
@@ -741,103 +137,55 @@
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
+      "name": "Error Reporting",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Storage for Firebase",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Firestore",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Google Threat Intelligence",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Healthcare API",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Looker",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Managed Service for Prometheus",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
       "name": "Google Marketing Platform*",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Gemini for Workspace",
+      "name": "AppSheet Automation",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "VMware Engine",
+      "name": "Text-to-Speech",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Parallelstore",
+      "name": "Gemini",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Application Integration",
+      "name": "Recommender",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Identity Platform",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Migrate to Containers",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Compute Engine",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Google Workspace Essentials",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Anti Money Laundering AI",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Endpoints",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Apache Kafka for BigQuery",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Batch",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Firebase Authentication",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Chronicle SOAR",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cost Management",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Gemini for Google Cloud",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Cloud Asset Inventory",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Deep Learning Containers",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Vertex AI",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Firebase Crashlytics*",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Vertex AI Notebooks",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Secret Manager",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Eventarc",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Artifact Registry",
+      "name": "Mandiant Digital Threat Monitoring",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
@@ -845,23 +193,19 @@
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Infrastructure Manager",
+      "name": "BigLake",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Database Migration Service",
+      "name": "Datastream",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Virus Total",
+      "name": "Gemini Cloud Assist",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "API Gateway",
-      "resource": "https://cloud.google.com/products?hl=en"
-    },
-    {
-      "name": "Google Cloud Skills Boost",
+      "name": "Access Transparency",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
@@ -869,19 +213,35 @@
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Cloud Storage",
+      "name": "BeyondCorp Enterprise",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Vertex AI Platform",
+      "name": "Software Delivery Shield",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Spot VMs",
+      "name": "Cost Management",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Storage Transfer Service",
+      "name": "Terraform on Google Cloud",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Spanner",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Managed Service for Microsoft Active Directory",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "App Engine",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Identity",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
@@ -889,11 +249,299 @@
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Device Connect for Fitbit",
+      "name": "Media Translation",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Developer Connect",
+      "name": "Private Service Connect",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Deep Learning VM Image",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Dataplex",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Logging",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "VMware Engine",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Anthos",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Bigtable",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Spot VMs",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Local SSD",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Vertex AI Platform",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Network Connectivity Center",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Confidential Computing",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Transcoder API",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Monitoring",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Kubernetes applications on Google Cloud Marketplace",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Memorystore",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Mobile App",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Active Assist",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Migration Center",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Deployment Manager",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Tools for Eclipse",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Batch",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Code",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Workstations",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "BigQuery Data Transfer Service",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Carbon Footprint",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Virtual Private Cloud (VPC)",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Application migration",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Run",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "OpenCue",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Deep Learning Containers",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Gemini for Workspace",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Firebase Crashlytics*",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Connectivity",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "AI Infrastructure",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Deploy",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Contact Center AI",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Source Repositories",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Key Management",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Pub/Sub",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Document AI",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Gradle App Engine Plugin",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Identity and Access Management",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Mandiant Security Validation",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Scheduler",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Dataflow",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Mandiant Managed Detection and Response",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Identity Platform",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Block storage",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Sole-tenant Nodes",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Workflows",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Policy Intelligence",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Maven App Engine Plugin",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Config Management",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Google Distributed Cloud",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Gemini Code Assist",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Network Service Tiers",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud CDN",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Tasks",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Storage",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "AutoML",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud GPUs",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Dataform",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Transfer Appliance",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Vertex AI Studio",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Build",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Certificate Authority Service",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Mandiant Incident Response Services",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Parallelstore",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud SQL",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Virus Total",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Vertex Explainable AI",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Google Cloud Skills Boost",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
@@ -901,7 +549,343 @@
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Error Reporting",
+      "name": "SQL Server on Google Cloud",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Chrome Enterprise",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Functions",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Chronicle SOAR",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud SDK",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Application Integration",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Vertex AI",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Persistent Disk",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Web Risk",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "reCAPTCHA Enterprise",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Compute Engine",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Knative",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Apache Kafka for BigQuery",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Earth Engine",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud NAT",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Identity and Access Management (IAM)",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Skaffold",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Dataproc",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Storage Transfer Service",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Service Mesh",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Assured Open Source Software",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Migrate to Virtual Machines",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Anti Money Laundering AI",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "VPC Service Controls",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Google Cloud Backup and DR",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Vertex AI Search for retail",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Service Directory",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Telecom Data Fabric",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "BigQuery",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "App Hub",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Security Command Center",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Tau VM",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud DNS",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Google Maps Platform",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Telecom Network Automation",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Vertex AI Agent Builder",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Gemini for Google Cloud",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Filestore",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Armor",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Tools for PowerShell",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Google Workspace Essentials",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud IDS",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Device Connect for Fitbit",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Data Catalog",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Data Fusion",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Google Workspace",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Console",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Network Intelligence Center",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud TPUs",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Foundation Toolkit",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Eventarc",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Payment Gateway",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Dialogflow",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Endpoints",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Tekton",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Secret Manager",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Google Distributed Cloud Hosted",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Shielded VMs",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Blockchain Node Engine",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Telecom Subscriber Insights",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Deployment Manager",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Google Kubernetes Engine",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Bare Metal Solution",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Migrate to Containers",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Video Stitcher API",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Domains",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Load Balancing",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Database Migration Service",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Google Kubernetes Engine (GKE)",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "AppSheet",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Functions for Firebase",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Mandiant Attack Surface Management",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Firebase Authentication",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Spectrum Access System (SAS)",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Looker Studio",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Assured Workloads",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Translation AI",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Profiler",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Artifact Registry",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Asset Inventory",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "API Gateway",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Speech-to-Text",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Cloud Trace",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Apigee API Management",
+      "resource": "https://cloud.google.com/products?hl=en"
+    },
+    {
+      "name": "Natural Language AI",
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
@@ -909,463 +893,27 @@
       "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "App Engine Admin API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
+      "name": "Cloud Shell",
+      "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "reCAPTCHA Enterprise API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
+      "name": "Titan Security Key",
+      "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Google Civic Information API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
+      "name": "Cloud APIs",
+      "resource": "https://cloud.google.com/products?hl=en"
     },
     {
-      "name": "Policy Analyzer API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Pub/Sub Lite API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Run Admin API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Docs API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Network Services API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Rapid Migration Assessment API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Infrastructure Manager API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Service Networking API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Asset API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Data Labeling API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Network Management API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Content API for Shopping",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Eventarc API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Firebase App Distribution API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Service Consumer Management API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Text-to-Speech API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Policy Simulator API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Reader Revenue Subscription Linking API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Transcoder API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Identity API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "My Business Lodging API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "My Business Business Information API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Build API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "AI Platform Training & Prediction API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Migration Center API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Area120 Tables API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Identity and Access Management (IAM) API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "SAS Portal API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Workspace Alert Center API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "AlloyDB API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Blogger API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Speech-to-Text API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Apps Script API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Application Integration API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Monitoring API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "YouTube Data API v3",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Play Integrity API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Drive Activity API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Dataflow API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Natural Language API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Talent Solution API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Identity Toolkit API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Places API (New)",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "AdMob API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "My Business Place Actions API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Safe Browsing API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Container Analysis API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Fact Check Tools API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Forms API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Groups Migration API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Billing Budget API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Recommender API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Workspace Events API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud SQL Admin API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "YouTube Reporting API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Firestore API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Advisory Notifications API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Chat API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Ad Exchange Buyer API II",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Pub/Sub API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Tag Manager API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Workload Manager API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Web Risk API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Filestore API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "PageSpeed Insights API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Key Management Service (KMS) API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "AdSense Host API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "IAM Service Account Credentials API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Ad Experience Report API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Logging API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Web Fonts Developer API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Workstations API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "AdSense Management API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Scheduler API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "API Keys API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Drive Labels API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Workflows API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Tasks API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Classroom API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Firebase Management API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "SAS Portal API (Testing)",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Public Certificate Authority API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Enterprise License Manager API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Cloud Data Catalog API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Firebase Cloud Messaging API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Payments Reseller Subscription API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Workspace Reseller API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Composer API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Android Device Provisioning Partner API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Play Game Services",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "BeyondCorp API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Developer Connect API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Discovery Engine API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Firebase Hosting API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Domains API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Managed Service for Microsoft Active Directory API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Assured Workloads API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Manufacturer Center API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Service Usage API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Smart Device Management API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
+      "name": "TensorFlow Enterprise",
+      "resource": "https://cloud.google.com/products?hl=en"
     },
     {
       "name": "Google Search Console API",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
-      "name": "Access Context Manager API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Firebase ML API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "BigQuery Reservation API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "GKE Hub API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Looker (Google Cloud core) API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Service Directory API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Solar API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Authorized Buyers Marketplace API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Bare Metal Solution API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Resource Manager API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Domains RDAP API",
+      "name": "Cloud Bigtable Admin API",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
@@ -1373,19 +921,79 @@
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
-      "name": "versionhistory.googleapis.com API",
+      "name": "AlloyDB API",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
-      "name": "Dataproc Metastore API",
+      "name": "Service Consumer Management API",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
-      "name": "Cloud Runtime Configuration API",
+      "name": "Cloud Testing API",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
-      "name": "Contact Center AI Insights API",
+      "name": "Google Slides API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "BigQuery Reservation API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Authorized Buyers Marketplace API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "People API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Dataproc API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Policy Troubleshooter API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Database Migration API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "DoubleClick Bid Manager API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Books API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Contact Center AI Platform API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Groups Migration API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Apigee API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Marketing Platform Admin API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Error Reporting API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Service Usage API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Web Fonts Developer API",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
@@ -1393,7 +1001,847 @@
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
+      "name": "Cloud Source Repositories API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Identity API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Document AI API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Domains API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Workload Manager API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Play Android Developer API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Chat API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Drive Activity API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Keep API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
       "name": "Google Cloud Memorystore for Redis API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Analytics Admin API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Apigee Registry API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Deploy API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Resource Settings API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Key Management Service (KMS) API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Calendar API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Dataproc Metastore API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Healthcare API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "SAS Portal API (Testing)",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Service Control API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Storage Transfer API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Infrastructure Manager API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Migration Center API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Chrome Verified Access API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Pub/Sub API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "GDC Virtual API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Asset API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Android Management API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "My Business Business Information API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Cloud Data Catalog API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud OS Login API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Ad Exchange Buyer API II",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Site Verification API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Play Game Services Publishing API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Vision API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Document AI Warehouse API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "AdSense Management API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "KMS Inventory API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Tag Manager API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Tasks API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Logging API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Access Context Manager API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Ad Experience Report API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Compute Engine API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Deployment Manager V2 API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Drive API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Firebase Hosting API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Apps Script API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Search Ads 360 Reporting API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Digital Asset Links API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Custom Search API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Dialogflow API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Spanner API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Library Agent API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Video Intelligence API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Docs API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Firebase App Distribution API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Play Game Management",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "BigQuery Data Transfer API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "On-Demand Scanning API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Access Approval API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Web Search Indexing API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "YouTube Analytics API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Transcoder API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Chrome Management API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Firebase ML API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "API Gateway API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Dataplex API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "HomeGraph API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Blogger API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Manufacturer Center API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "My Business Q&A API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Storage API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Web Risk API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Analytics Reporting API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Play EMM API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Connectors API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Essential Contacts API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Organization Policy API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "YouTube Reporting API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Domains RDAP API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "GKE Hub API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Fitness API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Resource Manager API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Kubernetes Engine API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud TPU API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Cloud Support API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Container Analysis API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "BigQuery API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "My Business Lodging API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Workspace Alert Center API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Batch API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Data Fusion API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Drive Labels API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "VM Migration API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Vault API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Content API for Shopping",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Forms API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Real-time Bidding API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Search Ads 360 API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Bare Metal Solution API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "App Engine Admin API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Pollen API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Android Device Provisioning Partner API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "IAM Service Account Credentials API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "VMware Engine API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "ACME DNS API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Reader Revenue Subscription Linking API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Talent Solution API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Web Security Scanner API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Composer API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Assured Workloads API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Eventarc API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Groups Settings API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "OS Config API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Recommendations AI (Beta)",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Secret Manager API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Workflows API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Checks API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Classroom API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Billing Budget API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Service Networking API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Travel Impact Model API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Wallet API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Identity and Access Management (IAM) API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Rapid Migration Assessment API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Data Lineage API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Application Integration API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "reCAPTCHA Enterprise API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Policy Analyzer API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "SAS Portal API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "My Business Notifications API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Play Developer Reporting API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "AI Platform Training & Prediction API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "My Business Verifications API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Monitoring API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Network Management API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Sheets API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Firestore API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Local Services API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Network Security API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Discovery Engine API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Build API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Address Validation API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Firebase Management API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Natural Language API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Controls Partner API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Functions API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Public Certificate Authority API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Channel API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google OAuth2 API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Firebase Rules API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Street View Publish API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "BigQuery Connection API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Developer Connect API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Storage for Firebase API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Backup and DR Service API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Tool Results API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Poly API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Analytics Hub API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Advisory Notifications API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Backup for GKE API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Civic Information API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "versionhistory.googleapis.com API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "API Management API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Translation API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Payments Reseller Subscription API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Serverless VPC Access API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "API Discovery Service",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud SQL Admin API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Firebase Cloud Messaging API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Contact Center AI Insights API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Data Labeling API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Business Profile Performance API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Play Game Services",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Identity Toolkit API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Search API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Datastream API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Sensitive Data Protection (DLP)",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Workspace Reseller API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Dataflow API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Binary Authorization API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Air Quality API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Profiler API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Campaign Manager 360 API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Service Management API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Data pipelines API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Network Services API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Identity-Aware Proxy API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Memorystore for Memcached API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Pub/Sub Lite API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Policy Simulator API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Abusive Experience Report API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Blockchain Node Engine API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Dataform API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Firebase Realtime Database API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Certificate Manager API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Datastore API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Billing API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Knowledge Graph Search API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Looker (Google Cloud core) API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Workflow Executions API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Firebase Dynamic Links API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Enterprise License Manager API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Workspace Events API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Display & Video 360 API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "BeyondCorp API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Data Portability API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "BigLake API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud DNS API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Certificate Authority API",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
@@ -1405,555 +1853,19 @@
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
-      "name": "BigQuery API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Accelerated Mobile Pages (AMP) URL API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Data Fusion API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Firebase App Check API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "My Business Notifications API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Play Custom App Publishing API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "People API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "API Gateway API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "API Discovery Service",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Play EMM API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Chrome Management API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Security Token Service API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Chrome Verified Access API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Cloud Support API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud TPU API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Firebase Rules API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Testing API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Document AI API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Recommendations AI (Beta)",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Storage API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Vault API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Deploy API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Memorystore for Memcached API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Network Connectivity API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Video Intelligence API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "OS Config API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud IDS API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Business Profile Performance API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Play Game Services Publishing API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Search Ads 360 Reporting API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "KMS Inventory API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Drive API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Admin SDK API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Backup for GKE API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Service Management API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "DoubleClick Bid Manager API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Storage Transfer API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Bigtable Admin API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Tool Results API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Real-time Bidding API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Analytics Reporting API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Spanner API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "My Business Verifications API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Controls Partner API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Keep API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Search Ads 360 API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Abusive Experience Report API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Books API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Address Validation API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Calendar API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Data Portability API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Binary Authorization API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Display & Video 360 API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Street View Publish API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "VMware Engine API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Workflow Executions API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Play Grouping API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Search API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Error Reporting API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Datastream API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Life Sciences API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Custom Search API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Policy Troubleshooter API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Essential Contacts API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Sheets API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Site Verification API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Healthcare API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Security Command Center API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Fitness API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Analytics Admin API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Play Game Management",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Play Android Developer API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Billing API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Connectors API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Web Search Indexing API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "On-Demand Scanning API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Storage for Firebase API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Organization Policy API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "ACME DNS API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Web Security Scanner API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Gmail API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud DNS API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Sensitive Data Protection (DLP)",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
       "name": "Google Analytics API",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
-      "name": "Firebase Dynamic Links API",
+      "name": "PageSpeed Insights API",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
-      "name": "Google Marketing Platform Admin API",
+      "name": "API Keys API",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
-      "name": "Compute Engine API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Access Approval API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Gmail Postmaster Tools API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Play Developer Reporting API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Poly API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Identity-Aware Proxy API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Network Security API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Campaign Manager 360 API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Certificate Authority API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Datastore API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Notebooks API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Data pipelines API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Travel Impact Model API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Checks API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Backup and DR Service API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Apigee API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Service Control API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Document AI Warehouse API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Kubernetes Engine API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "My Business Q&A API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Vertex AI Search for Retail API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Dataplex API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Source Repositories API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Analytics Hub API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Chrome Policy API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google OAuth2 API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Analytics Data API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "BigQuery Data Policy API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Library Agent API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Contact Center AI Platform API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Android Management API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Traffic Director API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "My Business Account Management API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Translation API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Data Lineage API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "YouTube Analytics API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Dataform API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Profiler API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Dialogflow API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Google Slides API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "BigLake API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Batch API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "App Hub API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Vision API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Secret Manager API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Resource Settings API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "BigQuery Data Transfer API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Blockchain Node Engine API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Database Migration API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Channel API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "GDC Virtual API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "VM Migration API",
+      "name": "Google Play Integrity API",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
@@ -1961,43 +1873,7 @@
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
-      "name": "HomeGraph API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Digital Asset Links API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Deployment Manager V2 API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Local Services API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud Functions API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Apigee Registry API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Firebase Cloud Messaging Data API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Certificate Manager API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Cloud OS Login API",
-      "resource": "https://www.googleapis.com/discovery/v1/apis"
-    },
-    {
-      "name": "Serverless VPC Access API",
+      "name": "Cloud Runtime Configuration API",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
@@ -2005,29 +1881,169 @@
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
-      "name": "Groups Settings API",
+      "name": "Network Connectivity API",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
-      "name": "BigQuery Connection API",
+      "name": "Smart Device Management API",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
-      "name": "Firebase Realtime Database API",
+      "name": "Places API (New)",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
-      "name": "Cloud Dataproc API",
+      "name": "Google Play Grouping API",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
-      "name": "Knowledge Graph Search API",
+      "name": "Cloud Text-to-Speech API",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     },
     {
-      "name": "Google Wallet API",
+      "name": "BigQuery Data Policy API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Merchant API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Run Admin API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Solar API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Security Token Service API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "My Business Place Actions API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "AdMob API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Managed Service for Microsoft Active Directory API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Play Custom App Publishing API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Vertex AI Search for Retail API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Google Analytics Data API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Area120 Tables API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "App Hub API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Filestore API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Gmail API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Gmail Postmaster Tools API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Recommender API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Admin SDK API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Speech-to-Text API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Scheduler API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Fact Check Tools API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Firebase App Check API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Firebase Cloud Messaging Data API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Notebooks API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Safe Browsing API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Security Command Center API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Workstations API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud Life Sciences API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "My Business Account Management API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "AdSense Host API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Accelerated Mobile Pages (AMP) URL API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Traffic Director API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Service Directory API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Chrome Policy API",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "YouTube Data API v3",
+      "resource": "https://www.googleapis.com/discovery/v1/apis"
+    },
+    {
+      "name": "Cloud IDS API",
       "resource": "https://www.googleapis.com/discovery/v1/apis"
     }
   ],
-  "count": 507
+  "count": 511
 }
